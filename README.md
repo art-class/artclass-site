@@ -1,1 +1,3 @@
-# artclass-site
+Art Class
+
+to be edited and finalized
